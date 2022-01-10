@@ -1,6 +1,11 @@
 # book_review
 공부한 책 리뷰
 
+### 현재 읽고 있는 책
+- [모두의 네트워크](http://www.yes24.com/Product/Goods/61794014)
+  - 2022.01.10 - ing
+  - 네트워크 어린이의 네트워크 입문
+
 ### 완독
 - [윤성우의 열혈 자료구조](https://github.com/mokhwasomssi/book_review/blob/main/%EC%9C%A4%EC%84%B1%EC%9A%B0%EC%9D%98%20%EC%97%B4%ED%98%88%20%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0.md)
 
